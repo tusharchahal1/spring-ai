@@ -1,0 +1,2 @@
+http://localhost:8080/promptOpenAI?message="who are you?"
+http://localhost:8080/promptOpenAI?message="Tell me a joke"
